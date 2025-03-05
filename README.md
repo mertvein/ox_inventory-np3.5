@@ -1,5 +1,6 @@
 # ox_inventory-np3.5
 - NoPixel 3.5 redesign for [ox_inventory](https://github.com/overextended/ox_inventory)
+- You can download and use ox_inventory's own images. You can contact my Discord server for item photos specific to this inventory.
 
 ## Showcase
 ![image](https://github.com/user-attachments/assets/acb86517-f867-49b4-bf39-fa6434e6f806)
